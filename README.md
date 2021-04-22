@@ -11,14 +11,20 @@ Kesehatan/Gaya Hidup
 3. Konsep 
 
 ● Konsep inti: 
-Rekomendasi olahraga keseharian 
+
+  Rekomendasi olahraga keseharian 
+
 ● Kerja: 
--Rekomendasi olahraga = Perkiraan cuaca, Rekomendasi jam olahraga, Saran 
+
+  -Rekomendasi olahraga = Perkiraan cuaca, Rekomendasi jam olahraga, Saran 
 tipe olahraga, Saran jenis olahraga, Rekomendasi durasi olahraga. 
--Lokasi = User input olahraga, Lokasi user, Pencarian tempat olahraga, Saran 
+
+  -Lokasi = User input olahraga, Lokasi user, Pencarian tempat olahraga, Saran 
 tempat olahraga dan yang bisa dihubungi serta harga sewa tempat. 
--Rekomendasi diet = (To Be Determined) 
--Mencari teman olahraga = (To Be Determined) 
+
+  -Rekomendasi diet = (To Be Determined) 
+
+  -Mencari teman olahraga = (To Be Determined) 
 
 4. Tipe 
 
