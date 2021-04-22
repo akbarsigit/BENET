@@ -1,5 +1,4 @@
 # BENET
-BENET : Bringing Every Need to Exert Training
 1. Nama
 
 BENET : Bringing Every Need to Exert Training 
