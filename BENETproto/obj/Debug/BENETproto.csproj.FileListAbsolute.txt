@@ -1,0 +1,12 @@
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\bin\Debug\BENETproto.exe.config
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\bin\Debug\BENETproto.exe
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\bin\Debug\BENETproto.pdb
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\obj\Debug\BENETproto.csprojAssemblyReference.cache
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\obj\Debug\BENETproto.MainMenu.resources
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\obj\Debug\BENETproto.Properties.Resources.resources
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\obj\Debug\BENETproto.csproj.GenerateResource.cache
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\obj\Debug\BENETproto.csproj.CoreCompileInputs.cache
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\obj\Debug\BENETproto.exe
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\obj\Debug\BENETproto.pdb
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\obj\Debug\BENETproto.Login.resources
+E:\UGM\Kuliah\SMT 2\Praktikum\PBO\BENET\BENETproto\BENETproto\obj\Debug\BENETproto.Register.resources
