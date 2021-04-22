@@ -10,4 +10,3 @@ namespace BENETproto
     {
     }
 }
-//Admin Class
