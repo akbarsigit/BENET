@@ -30,3 +30,5 @@ API.
 https://github.com/adhyaksazhalifunnas/BENET
 
 6. Domain Diagram
+
+![](BENETproto/image/classDiagram.jpg)
