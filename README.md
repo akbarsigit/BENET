@@ -32,3 +32,7 @@ https://github.com/adhyaksazhalifunnas/BENET
 6. Domain Diagram
 
 ![](BENETproto/image/classDiagram.jpg)
+
+7. Penjelasan BENETproto
+
+BENETproto merupakan prototype dari BENET dikarenakan kurangnya pengetahuan team dalam xamarin. BENETproto dibuat pada Visual Studio menggunakan Windows Forms App (.NET Framework), dimana BENET direncanakan untuk menggunakan xamarin [Mobile App (Xamarin.Forms)]. Masih dirundingkan untuk merubah Xamarin.Forms menjadi WebApplication dikarenakan kurangnya pengalaman team dalam menggunakan xamarin dan pengalaman menggunakan WebApplication.
